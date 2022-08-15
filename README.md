@@ -1,3 +1,3 @@
 # Web
-My website learning progress
+My web learning progress
 🚨 Course: The Complete 2022 Web Development Bootcamp by Dr. Angela Yu
